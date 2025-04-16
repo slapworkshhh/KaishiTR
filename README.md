@@ -1,48 +1,48 @@
 # Kaishi 1.5k
 
-Welcome to the public repository for **Kaishi 1.5k**, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the front of the deck looks like:
+Yeni başlayanlara temel Japonca kelimeleri tanıtmak için yapılmış modern bir Anki destesi olan Kaishi 1.5k için genel depoya hoş geldiniz. Kaishi 1.5k son derece modülerdir ve bu sayfa desteyi istediğiniz gibi değiştirmek için kullanabileceğiniz çeşitli seçenekleri açıklamaya adanmıştır. İşte destenin ön yüzü böyle görünüyor:
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-front.png" alt="Front of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
 
-As you can see, both the word and the sentences are there but the word is highlighted in the sentence, making it easy to immediately isolate the important information. Once the word is known well, reviewing is faster because the word appears first. Here is the backside of the default deck:
+Gördüğünüz gibi, hem kelime hem de cümleler var, ancak kelime cümle içinde vurgulanmış, bu da önemli bilgiyi hemen ayırmayı kolaylaştırıyor. Kelime iyi bilindiğinde, gözden geçirme daha hızlıdır çünkü kelime önce görünür. İşte varsayılan destenin arka yüzü:
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Back of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
 
-Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
+Çoğu destenin aksine, burada furigana kelimenin okunuşunu ve hemen altında anlamını verir. Kelimenin ve cümlenin seslendirmesi daha sonra sizin için hazırdır. İsterseniz perde vurgusu da ekleyebilirsiniz, aşağıya bakın. Belirli bir kartla ilgili notlar varsa, bunlar aşağıda gösterilir.
 
-[If you are new to Japanese or immersion, please read the guide first.](https://donkuri.github.io/learn-japanese/guide/)
+[Japonca veya immersiyona yeniyseniz, lütfen önce kılavuzu okuyun](https://donkuri.github.io/learn-japanese/guide/)
 
-### Table of contents
+### İçindekiler
 
-- [Where do I get the deck?](#where-do-i-get-the-deck)
-- [How do I use this deck?](#how-do-i-use-this-deck)
-- [Other related decks](#other-related-decks)
-- [What options are available for the deck?](#what-options-are-available-for-the-deck)
-- [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
-- [The genesis of the deck](#the-genesis-of-the-deck)
-- [Translation of the deck](#translation-of-the-deck)
-- [What do I do after this deck?](#what-do-i-do-after-this-deck)
+- [Desteyi nereden alabilirim?](#where-do-i-get-the-deck)
+- [Bu desteyi nasıl kullanırım?](#how-do-i-use-this-deck)
+- [Diğer ilgili desteler](#other-related-decks)
+- [Deste için hangi seçenekler mevcut?](#what-options-are-available-for-the-deck)
+- [Kaishi başka bir destenin üzerine nasıl aktarılır](#how-to-import-kaishi-on-top-of-another-deck)
+- [Destenin doğuşu] (#the-genesis-of-the-deck)
+- [Destenin çevirisi] (#translation-of-the-deck)
+- [Bu desteden sonra ne yapacağım?] (#what-do-i-do-after-this-deck)
 - [Credits](#credits)
 
-## Where do I get the deck?
+## Desteyi nereden edinebilirim?
 
-You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
+Desteyi bu GitHub'ın [releases](https://github.com/donkuri/Kaishi/releases/) sayfasından ya da [AnkiWeb](https://ankiweb.net/shared/info/1196762551) adresinden, destenin inceleme aşamasında olmaması koşuluyla edinebilirsiniz. **Deste Anki 2.1.50+ üzerinde desteklenmektedir.**
 
-## How do I use this deck?
+## Bu desteyi nasıl kullanabilirim?
 
-For an explanation on how Kaishi fits in with learning Japanese more generally, see the [guide](https://donkuri.github.io/learn-japanese/guide/).
+Kaishi'nin daha genel olarak Japonca öğrenmeye nasıl uyduğuna dair bir açıklama için [kılavuz](https://donkuri.github.io/learn-japanese/guide/)'a bakın.
 
-## Other related decks
+## Diğer ilgili desteler
 
-ねむい made a radicals deck based on Kaishi 1.5k, linking every kanji radical found in it with the first word in Kaishi that features this radical. It also covers a few more radicals that aren't in Kaishi proper. You can **use this deck in parallel with Kaishi if you struggle with kanji**, because it introduces kanji radicals as you go, helping you break them down more efficiently. You can find the deck [here on AnkiWeb](https://ankiweb.net/shared/info/1722008986). Thank you ねむい!
+ねむい, Kaishi 1.5k'ya dayanan bir radikal destesi yaptı ve içinde bulunan her kanji radikalini Kaishi'de bu radikali içeren ilk kelimeyle ilişkilendirdi. Ayrıca Kaishi'de bulunmayan birkaç radikali daha kapsamaktadır. Bu desteyi **kanji ile zorlanıyorsanız Kaishi ile paralel olarak kullanabilirsiniz**, çünkü ilerledikçe kanji radikallerini tanıtır ve onları daha verimli bir şekilde çözmenize yardımcı olur. Desteyi [burada AnkiWeb'de](https://ankiweb.net/shared/info/1722008986) bulabilirsiniz. Teşekkürler ねむい!
 
-## What options are available for the deck?
+## Deste için hangi seçenekler mevcut?
 
-There are multiple options you can use to change your cards. To modify them, select the Kaishi deck, click `Browse`, select any card from the deck, and click `Cards...` on the top right.
+Kartlarınızı değiştirmek için kullanabileceğiniz birden fazla seçenek vardır. Bunları değiştirmek için Kaishi destesini seçin, `Gözat`a tıklayın, desteden herhangi bir kartı seçin ve sağ üstteki `Kartlar...`a tıklayın.
 
 ### Pitch Accent
 
-The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is easy. Here is the card options under `Back Template` for the deck (click on the small dot above the `Search` bar.)
+En önemli seçenek, kartlarınıza perde aksanını dahil etmek isteyip istemediğinizdir. Şu anda, bir kişinin perde aksanını öğrenip öğrenmemesi gerektiği, toplulukta oldukça hararetli tartışmalara yol açma eğilimindedir. Biz orta yollu bir yaklaşım benimsemeye karar verdik: perde aksanı verileri sizin için var, kullanmak isteyip istemediğinizi siz seçeceksiniz. Kullanmamaya karar verirseniz, daha sonra her zaman etkinleştirebilirsiniz. Perde aksanını etkinleştirmenin yolu kolaydır. İşte deste için `Arka Şablon` altındaki kart seçenekleri (`Arama` çubuğunun üzerindeki küçük noktaya tıklayın.)
 
 ```CSS
 <div lang="ja">
@@ -85,7 +85,7 @@ The most important option is whether you would like to include pitch accent on y
 </div>
 ```
 
-To enable pitch accent, you simply need to take out all the `<!--` and `-->` parts which represent comments, like so: 
+"Tonlamalı vurguyu etkinleştirmek için, yorumları temsil eden tüm <!-- ve --> kısımlarını aşağıdaki gibi çıkarmanız yeterlidir:"
 
 ```CSS
 <div lang="ja">
@@ -120,16 +120,16 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 </div>
 ```
 
-### Minor options
+### Küçük seçenekler
 
-There are a couple of minor options you can modify.
+Değiştirebileceğiniz birkaç küçük seçenek vardır.
 
 #### Furigana
-If you would like to take out furigana, simply take out the `furigana:` parts of the back template.
+Furigana'yı çıkarmak isterseniz, arka şablonun `furigana:` kısımlarını çıkarmanız yeterlidir.
 
-#### Other card options
+#### Diğer kart seçenekleri
 
-You could entirely change the type of cards you want to see. Here is the `Front Template` of Kaishi 1.5k:
+Görmek istediğiniz kart türlerini tamamen değiştirebilirsiniz. İşte Kaishi 1.5k'nın `Ön Şablonu`:
 
 ```CSS
 <div lang="ja">
